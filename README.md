@@ -3,7 +3,7 @@
 
 
 
-This is not the scraper, but the scraped data. If you want to see the scraper's repo follow this link : https://github.com/sapg-dev/Swiss-Real-Estate-Scraper/tree/master
+This is not the scraper, but the scraped data. If you want to see the scraper's repo follow this link : https://github.com/txn100/Swiss-Real-Estate-Scraper/tree/master
 
 
 ## Dataset Description 
