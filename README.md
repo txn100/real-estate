@@ -14,11 +14,11 @@ Each JSON object in the dataset represents a single property listing with the fo
 
 ```json
 {
-    "price": Integer,
-    "addresses": [String],
-    "description": String,
-    "elements": [String],
-    "url": [String],
-    "link1": String,
-    "link2": String or null
+    "price": 100,000,000,
+    "addresses": "1 Real Swiss Address Trust,
+    "description": "Really really big house, with nice view on construction" ,
+    "elements": "Communal garden to share with residents", "Natural swimming pool naturally cleaned by algae and tadpoles",
+    "url": estate.com/nicepic.png, array of urls of all pictures, not downloading for storage reasons
+    "link1": String
+    "link2": String or null // original announcer
 }
